@@ -23,6 +23,14 @@ Python scripts and small projects for security work, built while learning with T
 
 Completed on TryHackMe: **Python Basics** and **Python: Core Concepts**.
 
+**Python Basics**
+
+Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7523891860864667648/
+
+**Python: Core Concepts**
+
+Linkedin: https://www.linkedin.com/feed/update/urn:li:activity:7525471334437486592/
+
 ## Why this matters for security
 
 - **Lists and dictionaries** model real data: IP addresses to scan, open ports per host, and port-to-service mappings (22 → SSH, 80 → HTTP).
